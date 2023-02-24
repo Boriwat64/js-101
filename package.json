@@ -2,10 +2,10 @@
   "name": "js-101",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "CRUDBookSQLite.js",
   "scripts": {
-    "start": "node src/index.js",
-    "dev": "nodemon src/index.js",
+    "start": "node src/CRUDBookSQLite.js",
+    "dev": "nodemon src/CRUDBookSQLite.js",
     "format": "prettier --write *.js"
   },
   "keywords": [],
